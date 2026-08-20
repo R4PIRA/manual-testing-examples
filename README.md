@@ -24,13 +24,13 @@ Para Bank - https://parabank.parasoft.com/parabank/index.htm
 
 ## 📂 Содержимое репозитория
 
-### 1. [Тестовые сценарии](https://github.com/R4PIRA/manual-testing-examples/blob/main/%23%20Тестовые%20сценарии%20–%20Para%20Bank.md)
+### 1. [Тестовые сценарии](https://github.com/R4PIRA/manual-testing-examples/blob/main/%23%20Test%20Scenarios%20–%20Para%20Bank.md)
 Высокоуровневые тестовые сценарии, охватывающие весь пусть пользователя от регистрации до оплаты счетов.
 
-### 2. [Критерии принятие](https://github.com/R4PIRA/manual-testing-examples/blob/main/%23%20Критерии%20принятия%20–%20Para%20Bank.md)
+### 2. [Критерии принятие](https://github.com/R4PIRA/manual-testing-examples/blob/main/%23%20Acceptance%20Criteria%20–%20Para%20Bank.md)
 Определенные критерии приемки основых функций для обеспечения соответствия бизнес-требованиям.
 
-### 3. [Тест Кейсы](https://github.com/R4PIRA/manual-testing-examples/blob/main/%23%20Тест%20кейсы%20-%20Para%20Bank.md)
+### 3. [Тест Кейсы](https://github.com/R4PIRA/manual-testing-examples/blob/main/%23%20Test%20Cases%20-%20Para%20Bank.md)
 **28 подробных тест кейсов**, охватывающих положительные и отрицательные сценарии.
 
 **Покрытие тестами:**
@@ -40,7 +40,7 @@ Para Bank - https://parabank.parasoft.com/parabank/index.htm
 - Создание нового счета: 2 тест кейсов
 - Оплата счета: 4 тест кейсов
 
-### 4. [Баг Репорты](https://github.com/R4PIRA/manual-testing-examples/blob/main/%23%20Баг%20репорт%20-%20Para%20Bank.md)
+### 4. [Баг Репорты](https://github.com/R4PIRA/manual-testing-examples/blob/main/%23%20Bug%20Report%20-%20Para%20Bank.md)
 Профессиональные примеры отчетов об ошибках, демонстрирующие правильный формат описания дефектов.
 
 **Включает:**
